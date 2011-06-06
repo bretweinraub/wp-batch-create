@@ -1,0 +1,44 @@
+Plugin Name: Batch Create
+Author: Andrew Billits, Ulrich Sossou
+
+Change Log:
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+1.1.2 - 05/15/2100 - Vladislav Bailovic
+----------------------------------------------------------------------
+- Added log file clearing option.
+
+1.1.1 - 04/20/2100 - Vladislav Bailovic
+----------------------------------------------------------------------
+- Fix for adding users with roles.
+- Fix for adding existing users.
+- Fix for Excel processing.
+- Fix for 404 redirection.
+- Fix for identical emails for different users in queue.
+- Fix for error handling.
+- Added adding users to main site.
+- Added basic blog_name sanitization.
+- Added support for batch files with header rows. 
+
+1.1 - 01/26/2010
+----------------------------------------------------------------------
+- New feature: allows addition of users to existing blogs
+- New feature: allows choosing the role of users
+- Enhancement: support for .csv and .xls files
+- Enhancement: internationalization
+- Enhancement: compatibility with WordPress 2.8 - 3.1
+- Enhancement: log plugin actions in a file when queue is processed
+- Enhancement: admin page rewrite so that it works correctly without js enabled
+- Enhancement: rewrite code per our coding standards
+- Enhancement: example files
+- Enhancement: updated install and sql files
+- Enhancement: better instructions on admin page
+
+1.0.1 - 06/01/2010
+----------------------------------------------------------------------
+- 3.0+ compatibility update
+
+1.0.0 - 06/22/2009
+----------------------------------------------------------------------
+- Initial Release.
